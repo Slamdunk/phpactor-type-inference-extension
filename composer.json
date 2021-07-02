@@ -13,7 +13,7 @@
         "php": ">=8.0",
         "phpactor/container": "^2.0.0",
         "phpactor/worse-reflection-extension": "^0.2.4",
-        "microsoft/tolerant-php-parser": "^0.0.23"
+        "microsoft/tolerant-php-parser": "^0.0.23 || ^0.1.0"
     },
     "require-dev": {
         "malukenho/mcbumpface": "^1.1.5",
